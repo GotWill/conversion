@@ -12,7 +12,7 @@ const buttonBoxFloat = document.querySelector('[data-testid="float-button"] labe
 buttonIsNone.style.display = 'none'
 
 //Mudando o texto do Botão
-buttonBoxFloat.innerHTML = 'Comprar'
+buttonBoxFloat.innerHTML = 'Compra'
 
 
 // Trocando a porcentagem de pix, pelo desconto real do produto 
